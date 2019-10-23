@@ -1,3 +1,3 @@
 # This is my Portfolio website for web developer
 
-# www.omar-faruk.de
+# https://mohammad-omar-faruk.github.io/www.omar-faruk.de/
