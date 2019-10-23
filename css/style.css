@@ -350,7 +350,7 @@ img {
     font-size: 25px;
     letter-spacing: 3px;
     color: #15DB95; 
-    color: #FF00FF; 
+    color: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);  
 }
 
 .logo span {
