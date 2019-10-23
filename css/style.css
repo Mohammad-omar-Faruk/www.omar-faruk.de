@@ -315,10 +315,12 @@ img {
 
 .sticky_navigation .logo{
     color: #E040FB; 
+    
 }
 
 .sticky_navigation .logo span {
     color: #00b0dc;
+    background-image: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);  
 }
 
 .main-menu{
@@ -353,6 +355,7 @@ img {
 
 .logo span {
     color: #00b0dc;
+    background-image: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);  
 }
 
 .navbar-brand:focus, .navbar-brand:hover {
