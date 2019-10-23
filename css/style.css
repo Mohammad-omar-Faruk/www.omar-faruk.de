@@ -1,9 +1,9 @@
 /*********************************************************
 
-    Template Name:  Robin - Personal Portfolio HTML Template
-    Author: MouriTheme
+    Template: Omar Faruk - Personal Portfolio Website
+    Author: Omar Faruk
     Version: 1.0
-    Design and Developed by: MouriTheme
+    Design and Developed by: Omar Faruk
 
     NB: This is the main stylesheet of this theme.
 
@@ -319,8 +319,8 @@ img {
 }
 
 .sticky_navigation .logo span {
-    color: #00b0dc;
-    background-image: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);  
+    color: linear-gradient( 90deg, #20007e 0%, #e61eb6 100%);  
+    
 }
 
 .main-menu{
